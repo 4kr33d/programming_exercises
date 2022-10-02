@@ -1,0 +1,16 @@
+This is my Road Map for learn WEB Progamming
+
+1. HTML
+2. CSS
+3. CSS3
+4. Javascript  & DOM
+5. HTML5
+6. ES6
+7. Try to learn php & mysql
+8. advance php
+9. try to learn how Framework is working 
+10. react js or vue or angular
+11. laravel or Codeigniter
+12. node js 
+
+And be a fullstack develop || Make a simple project after finish 1 number
